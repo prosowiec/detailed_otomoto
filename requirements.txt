@@ -1,0 +1,6 @@
+streamlit
+pandas
+regex
+certifi
+ssl
+bs4
